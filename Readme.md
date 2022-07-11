@@ -6,3 +6,5 @@ In linux we have alot of terminals
 2. Shell
 3. ZSH
 4. Korn
+
+New changes 
