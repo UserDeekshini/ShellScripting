@@ -7,4 +7,5 @@ In linux we have alot of terminals
 3. ZSH
 4. Korn
 
-New changes 
+Commiting after adding the password authentication token 
+Developers settings is found in settings->developer settings->personal access token-> add token 
