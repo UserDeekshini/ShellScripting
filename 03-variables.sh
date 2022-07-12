@@ -15,3 +15,4 @@ echo $8
 echo $9
 
 echo -e  "\e[33 calling the function from varibale file \e]0m"
+my_function()
