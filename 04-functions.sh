@@ -11,4 +11,4 @@ my_function()
 
 
 echo -e  "\e[34 calling the function from function file \e]0m"
-my_function()
+my_function
