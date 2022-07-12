@@ -13,3 +13,5 @@ echo $6
 echo $7
 echo $8
 echo $9
+
+echo -e  "\e[33 calling the function from varibale file \e]0m"
